@@ -1,0 +1,2 @@
+td_ameritrade_python_api.egg==info
+td==0.4
